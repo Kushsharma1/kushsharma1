@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/kushsha29784928" target="blank"><img src="https://img.shields.io/twitter/follow/kushsha29784928?logo=twitter&style=for-the-badge" alt="kushsha29784928" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently doing **Masters in Data Science**
 
 - 👨‍💻 All of my projects are available at [https://createdbykush.com](https://createdbykush.com)
 
-- 💬 Ask me about **React, JS, Web, Design, UIs, Programming**
+- 💬 Ask me about **Python, ML, Automation, Analysis, LLMs**
 
 - 📫 How to reach me **kushsharmafast@gmail.com**
 
 - 📄 Know about my experiences [https://createdbykush.com](https://createdbykush.com)
-
-- ⚡ Fun fact **Over the years, I've been rejected by every single crush of mine, So I do have a good sense of humour. 💀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
