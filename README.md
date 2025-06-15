@@ -5,15 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/kushsha29784928" target="blank"><img src="https://img.shields.io/twitter/follow/kushsha29784928?logo=twitter&style=for-the-badge" alt="kushsha29784928" /></a> </p>
 
-- 🌱 I’m currently doing **Masters in Data Science**
+- 🌱 I’m currently working as **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://createdbykush.com](https://createdbykush.com)
+- 🎓 Recently wrapped up my **Masters in Data Science** from **Deakin University** 
+
+- 👨‍💻 All of my projects are available at [https://createdbykush.com](https://www.kushsharma.com.au/)
 
 - 💬 Ask me about **Python, ML, Automation, Analysis, LLMs**
 
 - 📫 How to reach me **kushsharmafast@gmail.com**
 
-- 📄 Know about my experiences [https://createdbykush.com](https://createdbykush.com)
+- 📄 Know about my experiences [https://www.kushsharma.com.au/](https://www.kushsharma.com.au/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
