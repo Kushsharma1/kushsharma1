@@ -9,7 +9,7 @@
 
 - 🎓 Recently wrapped up my **Masters in Data Science** from **Deakin University** 
 
-- 👨‍💻 All of my projects are available at [https://createdbykush.com](https://www.kushsharma.com.au/)
+- 👨‍💻 All of my projects are available at [https://www.kushsharma.com.au/](https://www.kushsharma.com.au/)
 
 - 💬 Ask me about **Python, ML, Automation, Analysis, LLMs**
 
