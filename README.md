@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kushsharma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kushsharma1" height="30" width="40" /></a>
-<a href="https://twitter.com/kushsha29784928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushsha29784928" height="30" width="40" /></a>
+<a href="https://x.com/Kush__Sharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kushsha29784928" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kush-sharmaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kush-sharmaa/" height="30" width="40" /></a>
-<a href="https://instagram.com/imkush_sharmma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imkush_sharmma" height="30" width="40" /></a>
+<a href="https://www.instagram.com/k_sharmaa_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imkush_sharmma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
