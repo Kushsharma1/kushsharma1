@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEjp5psdQzWkC-TdGQIdfhELBa04d3i9rcMASRQck-NHK_wXN7RUOGbU_mu7OldbvZiH8PC6nDVQ0MK1rYoZV4_4BAH66tvmQhv4SC628fSVNgYJC0xCd1_rUHM1M7Q_u7VIkX3T4yypqtUHxGMD4jV9d3cMHOa0ambdpKSOQSmR6KRjI3Z12l-KquFS7Q)](https://createdbykush.com)
+[![MasterHead](https://blogger.googleusercontent.com/img/a/AVvXsEjp5psdQzWkC-TdGQIdfhELBa04d3i9rcMASRQck-NHK_wXN7RUOGbU_mu7OldbvZiH8PC6nDVQ0MK1rYoZV4_4BAH66tvmQhv4SC628fSVNgYJC0xCd1_rUHM1M7Q_u7VIkX3T4yypqtUHxGMD4jV9d3cMHOa0ambdpKSOQSmR6KRjI3Z12l-KquFS7Q)](https://www.kushsharma.com.au/)
 <h1 align="center">Hi 👋, I'm Kush Sharma</h1>
 <h3 align="center">A Data Science Professional</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codingwithslinky.com/GIFs/codingDino.gif">
