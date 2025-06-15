@@ -3,7 +3,7 @@
 <h3 align="center">A Data Science Professional</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codingwithslinky.com/GIFs/codingDino.gif">
 
-<p align="left"> <a href="https://twitter.com/kushsha29784928" target="blank"><img src="https://img.shields.io/twitter/follow/kushsha29784928?logo=twitter&style=for-the-badge" alt="kushsha29784928" /></a> </p>
+<p align="left"> <a href="https://x.com/Kush__Sharma_" target="blank"><img src="https://img.shields.io/twitter/follow/Kush__Sharma_?logo=twitter&style=for-the-badge" alt="Kush__Sharma_" /></a> </p>
 
 - 🌱 I’m currently working as **Data Analyst**
 
